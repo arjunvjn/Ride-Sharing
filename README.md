@@ -96,11 +96,10 @@ This is a RESTful API built with Django REST Framework for managing Ride Sharing
 
 ## 🧪 Running Tests
 
-    To run the tests, use:
-
-    ```bash
+To run the tests, use:
+ ```bash
     python manage.py test
-    ```
+```
 
 ## 📬 Postman Collection
 Postman Documentation link - https://documenter.getpostman.com/view/20668961/2sB3BEmUzG
