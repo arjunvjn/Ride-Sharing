@@ -101,3 +101,6 @@ This is a RESTful API built with Django REST Framework for managing Ride Sharing
     ```bash
     python manage.py test
     ```
+
+## 📬 Postman Collection
+Postman Documentation link - https://documenter.getpostman.com/view/20668961/2sB3BEmUzG
